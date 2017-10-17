@@ -1,0 +1,68 @@
+{ "contents": [
+    {
+      "team": "BJK",
+      "monthlyIncome":
+        [{
+            "month":20170801,
+            "income":0,
+            "percentage": 0
+        },
+        {
+            "month":20170901,
+            "income":20000,
+            "percentage": 20
+        },
+        {
+            "month":20171001,
+            "income":65000,
+            "percentage": 50
+        },
+        {
+            "month":20171101,
+            "income":140000,
+            "percentage": 75
+        },
+        {
+            "month":20171201,
+            "income":240000,
+            "percentage": 100
+        },
+        {
+            "month":20180101,
+            "income":345000,
+            "percentage": 110
+        },
+        {
+            "month":20180201,
+            "income":545000,
+            "percentage": 120
+        },
+        {
+            "month":20180301,
+            "income":900000,
+            "percentage": 130
+        },
+        {
+            "month":20180401,
+            "income":1000000
+        },
+        {
+            "month":20180501,
+            "income":1200000
+        },
+        {
+            "month":20180601,
+            "income":1370000
+        },
+        {
+            "month":20180701,
+            "income":1700000
+        },
+        {
+            "month":20180801,
+            "income":1970000,
+            "percentage": 150
+        }
+      ]
+    }
+  ]} 
